@@ -10,3 +10,5 @@
 ```
 STEAM_APPS_GET_QUERY=https://api.steampowered.com/ISteamApps/GetAppList/v0002/?format=json
 ```
+
+Написано на `.NET Framework 4.8` с использованием компоновщика `Costura.Fody`
